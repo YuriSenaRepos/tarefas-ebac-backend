@@ -1,0 +1,18 @@
+INÍCIO
+	1. Abrir os olhos;
+	2. Sentar na cama;
+	3. Colocar pé direito no chão;
+	4. Colocar pé esquerdo no chão;
+	5. Andar até o banheiro;
+	6. Lavar rosto;
+	7. Escovar os dentes;
+	8. Sair do banheiro
+	9. Descer escadas; 
+	10. Ir até a cozinha;
+	11. Esquentar água;
+	12. Preparar café;
+	13. Colocar café em xícara;
+	14. Subir escadas com café na mão direita;
+	15. Ir para o escritório;
+	16. Trabalhar;
+FIM
