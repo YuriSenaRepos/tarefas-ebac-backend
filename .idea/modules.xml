@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mod10/mod10.iml" filepath="$PROJECT_DIR$/mod10/mod10.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod8/mod8.iml" filepath="$PROJECT_DIR$/mod8/mod8.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod9/mod9.iml" filepath="$PROJECT_DIR$/mod9/mod9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tarefas-ebac-backend.iml" filepath="$PROJECT_DIR$/.idea/tarefas-ebac-backend.iml" />
