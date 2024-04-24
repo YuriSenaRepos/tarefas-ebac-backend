@@ -1,7 +1,5 @@
 package tarefa_controle_de_fluxo;
 
-import javax.sound.midi.Soundbank;
-
 public class Main {
     public static void main(String[] args) {
         double nota1 = 3.4;
